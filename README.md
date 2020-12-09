@@ -1,2 +1,5 @@
 # Emoji-interpreter-react
-Created with CodeSandbox
+
+```
+A cool Emoji Interpreter Web-App Created Using REACTJS
+```
