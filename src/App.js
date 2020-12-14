@@ -43,7 +43,9 @@ export default function App() {
     <div className="App">
       <h1>Know The Emoji</h1>
       <h2>Enter your emoji here 👇</h2>
-      <input onChange={emojiInterpret} />
+      <div className="input">
+        <input onChange={emojiInterpret} />
+      </div>
       <h2> {meaning} </h2>
       <div className="emoji">
         <h3>Emojis we know</h3>
