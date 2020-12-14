@@ -42,7 +42,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Know The Emoji</h1>
-      <h2>Enter your emoji here 👇</h2>
+      <h2>Enter your emoji here</h2>
       <div className="input">
         <input onChange={emojiInterpret} />
       </div>
